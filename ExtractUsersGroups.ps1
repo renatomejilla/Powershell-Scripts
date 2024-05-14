@@ -1,3 +1,7 @@
+# Author: 	Renato D. Mejilla
+# Date: 	May 10, 2024
+# Description: 	To extract users/groups permission of a folder and subfolders on a DFS shared.
+
 $dfsNamespacePath = @(
 	"\\PMINTL.NET\APPDATA\PMI-ITSC-GSVC-QAS\OVF-GSVC"
 )
