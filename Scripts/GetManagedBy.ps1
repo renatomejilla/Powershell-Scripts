@@ -28,5 +28,5 @@ while ($true) {
     }
 
     $managedBy = Get-ManagedBy -Name $inputName
-    Write-Host "Managed By for $inputName: $managedBy"
+    Write-Host "Managed By for ${inputName}: $managedBy"
 }
